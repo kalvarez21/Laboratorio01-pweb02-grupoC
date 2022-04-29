@@ -5,11 +5,12 @@ class Calculadora{
 		y = 3;
 		System.out.println("El producto de: "+ x +" * " + y +" = " + mul(x,y));
 		System.out.println("El cociente de: "+ x +" / " + y +" = " + div(x,y));
+		System.out.println("El modulo de: "+ x +" mod " + y +" = " + mod(x,y));
 
 	}
 	int add(int a, int b){return 0;}
 	int sub(int a, int b){return 0;}
 	public static int mul(int a, int b){return a*b;}
 	public static int div(int a, int b){return a/b;}
-	public static int mod(int a, int b){return 0;}
+	public static int mod(int a, int b){return a%b;}
 }
