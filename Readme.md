@@ -11,9 +11,9 @@
    </tr>
   </tbody>
 </table>
-<table>    
+<div align="center" dir="auto"><table>    
    <tbody>
    <tr><td colspan="3">Formato: Guía de Práctica de Laboratorio / Talleres / Centros de Simulación</td></tr>
    <tr><td>Aprobación:  2022/03/01</td><td>Código: GUIA-PRLD-001</td><td>Página: 1</td></tr>
    </tbody>
-</table>
+</table></div>
