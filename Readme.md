@@ -17,3 +17,7 @@
    <tr><td>Aprobación:  2022/03/01</td><td>Código: GUIA-PRLD-001</td><td>Página: 1</td></tr>
    </tbody>
 </table></div>
+<div align="center" dir="auto">
+   <span>GUÍA DE LABORATORIO</span><br>
+   <span>(formato estudiante)</span>
+</div>
