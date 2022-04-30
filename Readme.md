@@ -50,6 +50,7 @@
    <ul>
    <li>Link del trabajo individual: <a href="https://github.com/kalvarez21/LabPrimero.git">https://github.com/kalvarez21/LabPrimero.git</a></li>
    <span>COMMITS REALIZADOS</span>
+   <img src="./imagenes/CommitDeLaboratorioPersonal.png"/>
    </ul>
    <h2>II. SOLUCION DE CUESTIONARIO</h2>
    <ul>
