@@ -30,11 +30,11 @@
    <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
    </tr>
    <tr>
-   <td>FECHA Presentacion:</td><td>25-Abr-2022</td><td>Hora de Presentacion:</td><td colspan="3">29-Abr-2022</td>
+   <td>FECHA Presentacion:</td><td>29-Abr-2022</td><td>Hora de Presentacion:</td><td colspan="3">23:55</td>
    </tr>
    <tr><td colspan="3">Integrantes:
    <ul dir="auto">
-   <li></li>
+   <li>Kevin Jheeremy Alvarez Astete</li>
    </ul>
    </td>
    <td> NOTA: </td>
@@ -45,3 +45,10 @@
    </ul>
    </td>
 </tr></tbody></table></div>
+<div align="center" dir="auto"><table>
+   <tbody><tr><th>SOLUCION Y RESULTADOS</th></tr></tbody>
+   <tbody>
+   <tr><h2>I. SOLUCION DE EJERCICIOS/PROBLEMAS</h2></tr>
+   <tr><h2>II. SOLUCION DE CUESTIONARIO</h2></tr>
+   <tr><h2>III. CONCLUSIONES</h2></tr>
+   </tbody></div>
