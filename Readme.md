@@ -55,10 +55,12 @@
    <h2>II. SOLUCION DE CUESTIONARIO</h2>
    <ul>
       <li>¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</li>
+      <span>Porque ayuda a tener un control de nuestros proyectos, ademas nos permite trabajar en grupo, brindandonos soporte y orden al momento de trabajar</span>
    </ul>
    <h2>III. CONCLUSIONES</h2>
    <ul>
-      <li></li>
+      <li>El presente laboratorio permitio observar el uso practico de esta herramienta, asi como todas sus ventajas que ofrece en el trabajo</li>
+      <li>El uso de diversas ramas permitio dar una mejor vision ante la posibidad de trabajos en equipos, de tal forma se verifico que el modificar de un archivo por distintas personas no resulta un problema</li>
    </ul>
    <h1>RETROALIMENTACION GENERAL</h1>
    <h1>REFERENCIA Y BIBLIOGRAFIA</h1>
