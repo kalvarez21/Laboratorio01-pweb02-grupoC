@@ -45,10 +45,7 @@
    </ul>
    </td>
 </tr></tbody></table></div>
-<div align="center" dir="auto"><table>
-   <tbody><tr><th>SOLUCION Y RESULTADOS</th></tr></tbody>
-   <tbody>
-   <tr><h2>I. SOLUCION DE EJERCICIOS/PROBLEMAS</h2></tr>
-   <tr><h2>II. SOLUCION DE CUESTIONARIO</h2></tr>
-   <tr><h2>III. CONCLUSIONES</h2></tr>
-   </tbody></div>
+   <h1>SOLUCION Y RESULTADOS</h1>
+   <h2>I. SOLUCION DE EJERCICIOS/PROBLEMAS</h2>
+   <h2>II. SOLUCION DE CUESTIONARIO</h2>
+   <h2>III. CONCLUSIONES</h2>
