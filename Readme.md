@@ -48,7 +48,8 @@
    <h1>SOLUCION Y RESULTADOS</h1>
    <h2>I. SOLUCION DE EJERCICIOS/PROBLEMAS</h2>
    <ul>
-      <li></li>
+   <li>Link del trabajo individual: <a href="https://github.com/kalvarez21/LabPrimero.git">https://github.com/kalvarez21/LabPrimero.git</a></li>
+   <span>COMMITS REALIZADOS</span>
    </ul>
    <h2>II. SOLUCION DE CUESTIONARIO</h2>
    <ul>
